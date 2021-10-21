@@ -8,5 +8,3 @@ AsciiDoc im Fach Software Engineering I.
 ## Praktikumsinhalt
 
 - Umgang mit **Git**, **AsciiDoc** und **GitHub**
-
-Erster Commit.
