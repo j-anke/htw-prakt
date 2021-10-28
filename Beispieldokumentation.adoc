@@ -3,6 +3,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 1.0, 21.10.2021 
 :toc: 
 :toc-title: Inhaltsverzeichnis
+:source-highlighter: rouge
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -46,12 +47,25 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 |+`monospace`+
 |Text mit fester Laufweite
 
-|*_bold & italic_*
+|*bold* & _italic_
 |+*_bold & italic_*+
 |Text mit kombinierter Formatierung 
 
-|*bold* & _italic_ & #mark#
+|**bold**&__italic__&##mark##
 |+*bold* & _italic_ & #mark#+
 |Text mit Formatierung innerhalb einer Zeile
 
 |===
+
+=== Quellcode
+.helloworld.c
+[source, c]
+----
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+----
