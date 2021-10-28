@@ -27,7 +27,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 .Beispiel: sortierte Liste
 // Platzhalter
 . Git
-. GitHub
+. https://github.com/[GitHub]
 .. GitHub Issues
 .. Pull Requests
 . AsciiDoc
