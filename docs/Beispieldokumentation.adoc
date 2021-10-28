@@ -4,6 +4,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: rouge
+:imagesdir: images 
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -44,7 +45,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 |kursiver Text
 
 |`monospace`
-|+`monospace`+
+|`++`monospace`++`
 |Text mit fester Laufweite
 
 |*bold* & _italic_
@@ -59,7 +60,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 === Quellcode
 .helloworld.c
-[source, c]
+[source, c, linenums]
 ----
 #include <stdio.h>
 
@@ -69,3 +70,7 @@ int main(int argc, char* argv[])
     return 0;
 }
 ----
+
+=== Bilder
+.Screenshot
+image::screen_vsc.png[Screenshot VS Code]
