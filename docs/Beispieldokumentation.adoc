@@ -5,6 +5,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: rouge
 :imagesdir: images 
+:xrefstyle: short
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -32,6 +33,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 . AsciiDoc
 
 === Tabellen und Textformatierung
+[#tbl-syntax]
 .Beispiele und Syntaxt für Textformatierung
 |===
 |Formatierung |Syntax | Beschreibung 
@@ -59,18 +61,18 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 |===
 
 === Quellcode
+[#code]
 .helloworld.c
 [source, c, linenums]
 ----
-#include <stdio.h>
-
-int main(int argc, char* argv[])
-{
-    printf("Hello, World!\n");
-    return 0;
-}
+include::hello_world.c[]
 ----
 
 === Bilder
+[#img-screenshot]
 .Screenshot
 image::screen_vsc.png[Screenshot VS Code]
+
+=== Verweise
+
+In diesem Dokument sind Beispiel für die Syntax in <<tbl-syntax>> angezeigt. <<code, Code-Highlighting>> ist ebenfalls möglich. Für die Referenzierung von <<img-screenshot>> ist eine eigene ID erforderlich.
