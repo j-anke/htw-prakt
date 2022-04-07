@@ -12,4 +12,4 @@ Weitere Details zum neuen Feature.
 
 == Feature 2
 
-<insert_feature_here>
+Außerdem brauchen wir noch dringend Unterstützung für Emojis!
