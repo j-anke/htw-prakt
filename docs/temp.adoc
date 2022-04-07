@@ -1,8 +1,9 @@
 = Title
 
 == Beschreibung
+Der Fehler behindert 20% aller Benutzer auf und führt zu einem Verlust mehrerer Datensätze.
 
-<insert_bugfix_here>
+Weitere Analysen zeigen, dass der Fehler nur bei Vollmond unter Windows 95 auftritt.
 
 == Feature 1
 
