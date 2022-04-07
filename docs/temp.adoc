@@ -1,7 +1,6 @@
 = Title
 
 == Beschreibung
-
 Der Fehler behindert 20% aller Benutzer auf und führt zu einem Verlust mehrerer Datensätze.
 
 == Feature 1
