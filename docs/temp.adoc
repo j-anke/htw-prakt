@@ -3,6 +3,8 @@
 == Beschreibung
 Der Fehler behindert 20% aller Benutzer auf und führt zu einem Verlust mehrerer Datensätze.
 
+Weitere Analysen zeigen, dass der Fehler nur bei Vollmond unter Windows 95 auftritt.
+
 == Feature 1
 
 <insert_feature_here>
