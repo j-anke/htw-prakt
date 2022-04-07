@@ -8,6 +8,8 @@
 
 Hier ist der erste Teil des neuen Features beschrieben.
 
+Weitere Details zum neuen Feature.
+
 == Feature 2
 
 <insert_feature_here>
