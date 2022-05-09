@@ -1,0 +1,31 @@
+= PlantUML Test =
+:imagesdir: images 
+:diagramsdir: diagrams 
+:plantumlsdir: plantuml 
+
+=== Eingebettetes Diagramm
+
+.Klassendiagramm mit PlantUML 
+[plantuml, "{diagramsdir}/syntax-example1", svg]  
+....
+class Graphic 
+interface Shape <<Interface>> {
+  draw()
+}
+class Circle
+class Triangle
+class Square
+
+Graphic -> Shape
+Shape <|.. Circle
+Shape <|.. Triangle
+Shape <|.. Square
+....
+
+=== Einbindung per Datei-Include
+
+[plantuml, "{diagramsdir}/simple", svg]
+....
+include::{plantumlsdir}/simple.puml[]
+....
+
