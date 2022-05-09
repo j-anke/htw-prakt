@@ -3,3 +3,8 @@ Das ist der Text.
 
 
 Weitere Details zum Testkonzept finden sich unter dem Teppich.
+
+== Zuverlässigkeit
+Für die Überprüfung der Zuverlässigkeit wird im laufenden Betrieb die Datenbank getrennt. Danach wird eine Schreiboperation und eine Leseoperation versucht. Die Leseoperation sollte funkionieren, in dem die zwischengespeicherten Daten verwendet werden. 
+
+Die Schreiboperation sollte einen Fehler auslösen, der den Benutzer auf die nicht verfügbare Datenbank hinweist.
