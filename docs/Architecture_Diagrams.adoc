@@ -1,0 +1,13 @@
+= Architekturdiagramme
+:imagesdir: images 
+:diagramsdir: diagrams 
+:plantumlsdir: plantuml 
+
+== Dynamische Diagramme
+[plantuml, "{diagramsdir}/c4-dynamic1", svg]
+....
+include::{plantumlsdir}/c4-dynamic1.puml[]
+....
+
+
+== Deployment-Diagramme
