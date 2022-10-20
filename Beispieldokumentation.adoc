@@ -3,6 +3,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 1.0, 01.09.2019 
 :toc: 
 :toc-title: Inhaltsverzeichnis
+:source-highlighter: rouge
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -39,3 +40,18 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 |*_bold&italic_*     |\*\_bold&italic_*    |Text mit kombinierter Formatierung
 |**bold**&__italic__     |\\**bold**&\\__italic__    |Text mit Formierung innerhalb eines Wortes
 |===
+
+
+=== Quellcode
+.hello_world.c
+[source,c,linenums] 
+----
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+----
+
