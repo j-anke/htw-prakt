@@ -3,6 +3,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 1.0, 11.10.2023 
 :toc: 
 :toc-title: Inhaltsverzeichnis
+:source-highlighter: highlight.js
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -60,5 +61,16 @@ Meine Lieblingsmodule
 |gemischte Formatierung
 |===
 
+=== Quellcode
 
+[source,c]
+----
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+----
 
