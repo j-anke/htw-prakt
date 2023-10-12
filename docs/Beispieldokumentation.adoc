@@ -4,6 +4,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlight.js
+:imagesdir: images
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -73,4 +74,10 @@ int main(int argc, char* argv[])
     return 0;
 }
 ----
+
+=== Bilder
+.VS Code Screenshot
+
+image::screen_vsc.png[]
+
 
