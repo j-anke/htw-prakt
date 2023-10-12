@@ -37,6 +37,8 @@ Meine Lieblingsmodule
 
 === Tabellen und Textformatierung
 
+Beispiel für eine Tabelle.
+
 [cols="1,1,1"]
 |===
 |Formatierung | #Syntax#  | Beschreibung
