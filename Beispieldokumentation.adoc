@@ -33,3 +33,32 @@ Meine Lieblingsmodule
 .. Use Cases
 . Entwurf
 
+=== Tabellen und Textformatierung
+
+[cols="1,1,1"]
+|===
+|Formatierung | #Syntax#  | Beschreibung
+
+|*bold*
+|+*bold*+
+|fetter Text
+
+|_italic_
+|+_italic_+
+|kursiver Text
+
+|`monospace`
+|+`bold`+
+|Text mit fester Laufweite
+
+|*_bolditalic_*
+|+*_bolditalic_*+
+|kombinierte Formatierung
+
+|**bold**__italic__
+|++**bold**__italic__++
+|gemischte Formatierung
+|===
+
+
+
