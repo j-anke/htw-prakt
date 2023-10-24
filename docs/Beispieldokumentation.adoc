@@ -5,6 +5,7 @@ Jürgen Anke <juergen.anke@htw-dresden.de>
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlight.js
 :imagesdir: images
+:icons:font
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -14,7 +15,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 == Kennenlernen der Syntax
 
-Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
+WARNING: Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
 
 === Listen
 
