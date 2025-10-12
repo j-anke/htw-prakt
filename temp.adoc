@@ -6,7 +6,7 @@
 
 == Feature 1
 
-<insert_feature_here>
+Mit dem neuen Feature sollen seebehinderte Menschen besser unterstützt werden.
 
 == Feature 2
 
