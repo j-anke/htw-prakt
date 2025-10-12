@@ -8,7 +8,11 @@ Es zeigt sich, dass beim Ausschalten des GPS ein Timeout für die Lokalisierung 
 
 == Feature 1
 
-<insert_feature_here>
+Mit dem neuen Feature sollen seebehinderte Menschen besser unterstützt werden.
+
+Dafür soll die Oberfläche kompatibel zu Screenreadern sein und optional hohen Kontrast unterstützen.
+
+Dazu braucht man noch Infos über die Fähigkeiten der Betriebssysteme, die Accessibility-Funktionen haben.
 
 == Feature 2
 
