@@ -2,7 +2,9 @@
 
 == Beschreibung
 
-<insert_bugfix_here>
+Keine Ahnung, worin der Fehler genau liegt.
+
+Es zeigt sich, dass beim Ausschalten des GPS ein Timeout für die Lokalisierung entsteht.
 
 == Feature 1
 
