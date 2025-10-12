@@ -10,6 +10,8 @@ Mit dem neuen Feature sollen seebehinderte Menschen besser unterstützt werden.
 
 Dafür soll die Oberfläche kompatibel zu Screenreadern sein und optional hohen Kontrast unterstützen.
 
+Dazu braucht man noch Infos über die Fähigkeiten der Betriebssysteme, die Accessibility-Funktionen haben.
+
 == Feature 2
 
 <insert_feature_here>
