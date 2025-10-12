@@ -16,4 +16,4 @@ Dazu braucht man noch Infos über die Fähigkeiten der Betriebssysteme, die Acce
 
 == Feature 2
 
-<insert_feature_here>
+Details zu Feature 2 stehen noch nicht fest.
