@@ -10,6 +10,8 @@ Ideen für Feature 1 hier sammeln.
 
 Vielleicht sollten wir die Apple Vision Pro unterstützen. Mit Prio 0!
 
+Eventuell Feature überdenken.
+
 == Feature 2
 
 <insert_feature_here>
