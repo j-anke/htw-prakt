@@ -2,7 +2,9 @@
 
 == Beschreibung
 
-<insert_bugfix_here>
+Irgendwas geht nicht. Vielleicht brauchen wir einen Stuhl oder einen Dominostein.
+
+Oder einen Basketball.
 
 == Feature 1
 
