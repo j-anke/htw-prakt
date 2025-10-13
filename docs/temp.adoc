@@ -6,7 +6,7 @@
 
 == Feature 1
 
-<insert_feature_here>
+Ideen für Feature 1 hier sammeln.
 
 == Feature 2
 
