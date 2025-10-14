@@ -1,0 +1,13 @@
+= Title
+
+== Beschreibung
+
+<insert_bugfix_here>
+
+== Feature 1
+
+Hier kommt die Beschreibung des Features hin.
+
+== Feature 2
+
+<insert_feature_here>
