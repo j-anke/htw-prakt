@@ -13,3 +13,20 @@ Vielleicht brauchen wir einen Stuhl, Dominostein oder einen Basketball.
 == Feature 2
 
 <insert_feature_here>
+= Title
+
+== Beschreibung
+
+<insert_bugfix_here>
+
+== Feature 1
+
+Hier kommt die Beschreibung des Features hin.
+
+Vielleicht sollten wir die neue Apple Watch unterstützen.
+
+Weiterer Text.
+
+== Feature 2
+
+<insert_feature_here>
