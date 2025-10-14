@@ -10,6 +10,8 @@ Hier kommt die Beschreibung des Features hin.
 
 Vielleicht sollten wir die neue Apple Watch unterstützen.
 
+Weiterer Text.
+
 == Feature 2
 
 <insert_feature_here>
