@@ -17,3 +17,7 @@ Weiterer Text.
 == Feature 2
 
 <insert_feature_here>
+
+== Feature 3 
+
+Hier kommt ein neuer Vorschlag.
